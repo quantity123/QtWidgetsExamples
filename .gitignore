@@ -50,3 +50,8 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
+
+# CoinFlipGame已经作为单独项目上传
+quantity123/CoinFlipGame/
+
+

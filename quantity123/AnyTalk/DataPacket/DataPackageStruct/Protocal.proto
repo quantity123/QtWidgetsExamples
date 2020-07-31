@@ -1,0 +1,13 @@
+syntax = 'proto3';
+
+message PClientLogin {
+	string LoginName = 1;
+}
+
+message PClientLoginFeedback {
+	bool Success = 1;
+}
+
+message PClientIsOnline {
+	bool Online = 1;
+}
